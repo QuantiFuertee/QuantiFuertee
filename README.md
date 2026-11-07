@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Igor 👋 
+### Cybersecurity Specialist & Systems Engineer
 
-<!--
-**QuantiFuertee/QuantiFuertee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in corporate infrastructure security, data protection, and Python automation. With a B.S. in Cybersecurity and currently pursuing an M.S. in Computer Engineering, I help businesses secure their networks and integrate smart API solutions. Based in Spain (CET timezone).
 
-Here are some ideas to get you started:
+## 🛡️ Core Expertise
+- **Cybersecurity & Infrastructure:** Data Loss Prevention (DLP), Windows OS Administration, Network Security (DNS over HTTPS, Traffic Analysis), Data Classification.
+- **Development & Automation:** Python, AI API Integrations (Google Gemini), Desktop Automation (AutoHotkey).
+- **Game Engine Architecture:** Godot Engine (Multiplayer Netcode, State Synchronization).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Proof of Concepts & Documentation
+- 🔐 **[Corporate IT Security & DLP Guidelines](#):** Technical documentation, access control policies, and architecture setup for secure Windows environments.
+- 🎙️ **[Python LLM Voice Integration](#):** A lightweight proof-of-concept connecting local speech-to-text (Vosk) with the Google Gemini API for automated system commands.
+- 🎲 **[Godot Multiplayer Architecture](#):** Network synchronization and custom ruleset logic for a 4-player desktop session.
+
+## 📫 Let's Connect
+- **Email:** [igor.priymak71@gmail.com]
+- **Upwork:** [Ссылка появится позже]
