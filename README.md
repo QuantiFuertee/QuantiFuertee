@@ -10,7 +10,7 @@ I specialize in corporate infrastructure security, data protection, and Python a
 
 ## 🚀 Featured Proof of Concepts & Documentation
 - 🔐 **[Corporate IT Security & DLP Guidelines](#):** Technical documentation, access control policies, and architecture setup for secure Windows environments.
-- 🎙️ **[Python LLM Voice Integration](#):** A lightweight proof-of-concept connecting local speech-to-text (Vosk) with the Google Gemini API for automated system commands.
+- 🎙️ **[Python LLM Voice Integration](https://github.com/QuantiFuertee/python-gemini-audio-api/tree/main):** A lightweight proof-of-concept connecting local speech-to-text (Vosk) with the Google Gemini API for automated system commands.
 - 🎲 **[Godot Multiplayer Architecture](#):** Network synchronization and custom ruleset logic for a 4-player desktop session.
 
 ## 📫 Let's Connect
